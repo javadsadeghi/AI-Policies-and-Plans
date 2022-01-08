@@ -9,97 +9,114 @@ I think we need an “Awesome” of useful documents related to the AI policies 
  4. Finally, here we try to look at and classify the document with a policymaking point of view.
 
 ### Tags 
-- [translate] => This file need translation
-- [official] => This file is published by a official office
-- [Sub-Policy] => AI policy is a sub-policy of another general policy
-- [Announcement] => AI policy is not published but we now it is approved by an official authority
+Use these tags to describe the quality of documents.
+- [translate] => This file need translation.
+- [official] => This file is published by a official office.
+- [Sub-Policy] => AI policy is a sub-policy of another general policy.
+- [Announcement] => AI policy is not published but we now it is approved by an official authority.
+- [Draft] => When only a draft of policy is  available.
+- [Report] => A report is our source and informs us about the policy.
 
-
+- [translate], [official], [Sub-Policy], [Announcement], [Draft], [Report]
 
 
 # National policies and strategies
     
   ## Argentinian
-[I'm an inline-style link](https://www.google.com)
+[PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  2030 (2019)](https://drive.google.com/file/d/1LD1FndrOkBY-tYtiTYZxIP45RsfoCjo_/view?usp=sharing)
+- [translate], [official]
+
+ ## Australia
+[Australia Artificial Intelligence Roadmap](https://drive.google.com/file/d/1iAxzrFg6as02QmWcEyGRkmzC1F7zcJgP/view?usp=sharing)
+-  [official]
+
+ ## Austria
+[AIM AT 2030, Artificial Intelligence Mission Austria 2030 (2018)](https://drive.google.com/file/d/1AQOcTF_LMBAxw08Ba_7AhuajfO3nVmbg/view?usp=sharing)
+- [official],[translate]
+
+## Bangladesh 
+[NATIONAL STRATEGY FOR ARTIFICIAL INTELLIGENCE OF BANGLADESH (2019)](https://drive.google.com/file/d/1TMNIkecoNql-AB8Y4U3c6HiOMOTDzX9t/view?usp=sharing)
+ -  [official], [Draft]
 
 
-  ## Australia
-[I'm an inline-style link](https://www.google.com)
+ ## Belgium
+[AI 4Belgium (2021)](https://drive.google.com/file/d/1mtHNKyQl9Xkx-YwFnK3oMitDyzfZiAE3/view?usp=sharing)
+-  [official]
 
-  ## Austria
-[I'm an inline-style link](https://www.google.com)
-
-  ## Bangladesh 
-[I'm an inline-style link](https://www.google.com)
-  ## Belgium
-[I'm an inline-style link](https://www.google.com)
   ## Brazil
-[I'm an inline-style link](https://www.google.com)
-  ## Bulgaria
-[I'm an inline-style link](https://www.google.com)
-  ## Canada
-[I'm an inline-style link](https://www.google.com)
-  ## China
-[I'm an inline-style link](https://www.google.com)
-  ## Colombia
-[I'm an inline-style link](https://www.google.com)
-  ## Chile
-[I'm an inline-style link](https://www.google.com)
-  ## China
-[I'm an inline-style link](https://www.google.com) 
-  ## Croatia
-[I'm an inline-style link](https://www.google.com) 
+[Estratégia Brasileira de Inteligência Artificial  -EBIA- (2021)](https://drive.google.com/file/d/16nH-c026-qLkXz8pA4Lo2Z1gv-ast6Ev/view?usp=sharing)
+- [translate], [official]
+
+## Canada
+[pan-canadian artificial intelligence strategy(2017)](https://docs.google.com/presentation/d/1ybiRD9obndqyK_DXcIeCtXIjOCJI1RjW/edit?usp=sharing&ouid=108404796147178613134&rtpof=true&sd=true)
+- [official]
+## China
+[Next Generation Artificial Intelligence Development Plan Issued by State Council (2017)](https://drive.google.com/file/d/1jw_A8LacZHOVJuYanpGE1IpIPcltkZV8/view?usp=sharing)
+
+- [translate], [official],  [Announcement], [Report]
+
+[China AI principels (2019)](https://drive.google.com/file/d/1eLTgVH8hj9sLRcVPW5BjQ9bVil0ZXul3/view?usp=sharing)
+
+-[official], [Sub-Policy]
+
+ ## Colombia
+[Will be uploading soon](https://www.google.com)
+ ## Chile
+[Will be uploading soon](https://www.google.com)
+
+ ## Croatia
+[Will be uploading soon](https://www.google.com) 
   
   ## Cyprus
 [I'm an inline-style link](https://www.google.com) 
   
  ## Czech Republic
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Denmark
 [I'm an inline-style link](https://www.google.com) 
   
   ## Egypt
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Estonia
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Finland
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## France
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
  
   ## German
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Hungary
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
  
   ## Ireland
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## India
- [I'm an inline-style link](https://www.google.com) 
+ [Will be uploading soon](https://www.google.com) 
  
   ## Indonesia
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
 
   ## Israel
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Italy
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Japan
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Kazakhstan
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Kenya
-[I'm an inline-style link](https://www.google.com) 
+[Will be uploading soon](https://www.google.com) 
   
   ## Latvia
 [Will be uploading soon](https://www.google.com) 
