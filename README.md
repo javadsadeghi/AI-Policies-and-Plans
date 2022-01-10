@@ -136,7 +136,7 @@ Use these tags to describe the quality of documents.
 [Artificial Intelligence: a strategic vision for Luxembourg (2019)](https://drive.google.com/file/d/1lffToWtdiMBQcEYTb-YJ7kyS6T7bTaZL/view?usp=sharing) 
 - [official]
 ## Malta
-[Malta: The Ultimate AI Launchpad (2019)]https://drive.google.com/file/d/16odNvTfPhNNBd0ovXrouvLNXBSbk7-0W/view?usp=sharing) 
+[Malta: The Ultimate AI Launchpad (2019)](https://drive.google.com/file/d/16odNvTfPhNNBd0ovXrouvLNXBSbk7-0W/view?usp=sharing) 
  - [official]
 
 ## Malaysia
