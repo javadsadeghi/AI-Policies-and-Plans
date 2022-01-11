@@ -256,3 +256,14 @@ Use these tags to describe the quality of documents.
 # White papers
 
 # laws
+
+# Dashboards
+- [AI Watch Dashboards (European Commission)](https://web.jrc.ec.europa.eu/dashboard/AI_WATCH_LANDSCAPE/index.html?bookmark=overview&rdr=1641931606459)
+
+- [TOOLBOX: Dynamics of AI Principles (AI ETHICS LAB)](https://aiethicslab.com/big-picture/)
+
+- [National AI policies & strategies (OECD) ](https://oecd.ai/en/dashboards)
+
+- [AI Localism(Gov Lab)](https://list.ailocalism.org/)
+
+
