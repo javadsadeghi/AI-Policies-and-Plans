@@ -130,7 +130,6 @@ Use these tags to describe the quality of documents.
 ## Lithuanian
 [LITHUANIAN ARTIFICIAL INTELLIGENCE STRATEGY (2020)](https://drive.google.com/file/d/1WbTcgTZQ6qP0mjadFzX10o094GfSo4pW/view?usp=sharing) 
 - [official]
-
   
 ## Luxembourg
 [Artificial Intelligence: a strategic vision for Luxembourg (2019)](https://drive.google.com/file/d/1lffToWtdiMBQcEYTb-YJ7kyS6T7bTaZL/view?usp=sharing) 
@@ -148,36 +147,38 @@ Use these tags to describe the quality of documents.
 - [official]
 
 ## Netherlands
-[Will be uploading soon](https://www.google.com) 
+[Strategic Action Plan for Artificial Intelligence](https://drive.google.com/file/d/1YALbDH5zENX5jIi3ck6uBPcHOrdHQI9p/view?usp=sharing) 
+- [official]
   
-  ## New Zealand
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Norway
-[Will be uploading soon](https://www.google.com) 
+## New Zealand
+[GOVERNMENT USE of ARTIFICIAL INTELLIGENCE in NEW ZEALAND](https://drive.google.com/file/d/1IN6gwt_Ki2DwUmimzFSMQFAOraD3HuwT/view?usp=sharing) 
+- [official]
+    
+## Norway
+[National Strategy for Artificial Intelligence](https://drive.google.com/file/d/1GszySTTFYjDm2bB-sVkf63uuXMaxV6hz/view?usp=sharing) 
+ - [official]
  
-  ## Pakistan
-[Will be uploading soon](https://www.google.com) 
- 
-  ## Philippines
-[Will be uploading soon](https://www.google.com) 
+## Poland
+[w sprawie ustanowienia „Polityki dla rozwoju sztucznej inteligencji w Polsce od roku 2020”](https://drive.google.com/file/d/1L9EBMBjbw8rjC4XE5JYnRXqmUiSY9Tii/view?usp=sharing) 
+- [translate], [official]
   
-  ## Poland
-[Will be uploading soon](https://www.google.com) 
+## Peru
+[NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY](https://drive.google.com/file/d/1Lcp3nbcWK0wOv1U7GxIr0uxqKtGbOQjg/view?usp=sharing) 
+- [official], [Sub-Policy], [Draft]
   
-  ## Peru
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Portugal
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Qatar
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Romania
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Russia
+## Portugal
+[AI PORTUGAL 2030](https://drive.google.com/file/d/1xfTJwNmz9SxFxOXIg4T6ciESszEmtkuW/view?usp=sharing) 
+ - [official]
+
+## Qatar
+[Blueprint: NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY FOR QATAR](https://drive.google.com/file/d/1O9RJx-oWWco9Yoxax-hsajXSgErEpywK/view?usp=sharing) 
+ - [official]
+
+## Romania
+[Romania in the era of Artificial Intelligence](https://drive.google.com/file/d/1jQ1__xscTEbR5QZNHfhPPPjjrY62fDb4/view?usp=sharing)
+- [official], [Draft]
+
+ ## Russia
 [Will be uploading soon](https://www.google.com) 
   
   ## Saudi Arabia
