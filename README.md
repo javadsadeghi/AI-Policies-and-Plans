@@ -253,6 +253,10 @@ Use these tags to describe the quality of documents.
 # Standards
 
 # Toolkits
+- [Empowering AI Leadership: AI C-Suite Toolkit](https://www3.weforum.org/docs/WEF_Empowering_AI_Leadership_2022.pdf)
+- [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/assets/gao-21-519sp.pdf)
+- [THE ASSESSMENT LIST FOR TRUSTWORTHY ARTIFICIAL INTELLIGENCE (ALTAI) for self assessment](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342)
+- [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
 
 # White papers
 
