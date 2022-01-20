@@ -21,7 +21,7 @@ Use these tags to describe the quality of documents.
 
 
 
-# National Policies, Strategies and Roadmaps
+# National Level
 
     
   ## Argentinian
@@ -119,6 +119,8 @@ Use these tags to describe the quality of documents.
 ## Italy
 [Strategia Nazionale per l’Intelligenza Artificiale (2020)](https://drive.google.com/file/d/1lnfPF_WiamQyjRLmHWgLWx8AKfnDPLcP/view?usp=sharing) 
 - [translate], [official]
+
+- [Making the most of artificial intelligence in Italy and Europe](https://libro-bianco-ia.readthedocs.io/en/latest/doc/making_the_most.html)
 
 ## Japan
 [ARTIFICIAL INTELLIGENCE IN JAPAN (2020)](https://drive.google.com/file/d/1W2UZ6UFNMr0gMjgHUS7RLVsBv8AR07Uc/view?usp=sharing) 
@@ -269,24 +271,41 @@ Use these tags to describe the quality of documents.
 [Prime minister decisions issuing the National Strategy on research, development and application of artificial intelligence until 2030](https://drive.google.com/file/d/1gw5TLQP455PqiTMP25idBVlLbOuZwbFD/view?usp=sharing) 
   - [translate], [official],[Announcement], [Report]
 
+# Activities at the International Level
+ ## EU
+ 
+ ## UN
+ 
+ ## OECD
 
 
-# International initiatives
 
-# Regulations
+# Useful Reports and Materials
 
-# Standards
+## Accountability and Trust
+- [INTELLIGENT ECONOMIES: AI’s transformation of industries and society](https://impact.economist.com/perspectives/sites/default/files/EIU_Microsoft%20-%20Intelligent%20Economies_AI%27s%20transformation%20of%20industries%20and%20society.pdf) A report from The Economist Intelligence Unit
 
-# Toolkits
-- [Empowering AI Leadership: AI C-Suite Toolkit](https://www3.weforum.org/docs/WEF_Empowering_AI_Leadership_2022.pdf)
+- [Empowered Data Societies:A Human-Centric Approach to Data Relationships](https://www3.weforum.org/docs/WEF_Empowered_Data_Societies_2021.pdf) This document is published by the World Economic Forum 
+
 - [Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/assets/gao-21-519sp.pdf)
+
+- [On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
+
 - [THE ASSESSMENT LIST FOR TRUSTWORTHY ARTIFICIAL INTELLIGENCE (ALTAI) for self assessment](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342)
-- [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
+
 - [Responsible AI Toolbox Microsoft](https://github.com/microsoft/responsible-ai-toolbox/#responsible-ai-dashboard)
 
-# White papers
 
-# laws
+## AI Ecosystem
+- [Empowering AI Leadership: AI C-Suite Toolkit](https://www3.weforum.org/docs/WEF_Empowering_AI_Leadership_2022.pdf)
+
+- [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
+
+
+## ethics
+
+
+
 
 # Dashboards
 - [AI Watch Dashboards (European Commission)](https://web.jrc.ec.europa.eu/dashboard/AI_WATCH_LANDSCAPE/index.html?bookmark=overview&rdr=1641931606459)
