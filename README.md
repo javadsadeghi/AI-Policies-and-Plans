@@ -302,7 +302,7 @@ Use these tags to describe the quality of documents.
 - [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
 
 
-## ethics
+## Ethics
 
 
 
