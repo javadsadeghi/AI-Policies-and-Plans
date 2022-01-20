@@ -179,68 +179,95 @@ Use these tags to describe the quality of documents.
 - [official], [Draft]
 
  ## Russia
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Saudi Arabia
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Sri Lanka
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Slovak Republic
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Slovenia
-[Will be uploading soon](https://www.google.com) 
-  
-  ## South Africa
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Republic of Serbia
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Singapore
-[Will be uploading soon](https://www.google.com) 
-  
-  ## South Korea
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Spain
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Sweden
-[Will be uploading soon](https://www.google.com) 
-  
-  ## Switzerland
-[Will be uploading soon](https://www.google.com) 
  
-  ## Taiwan
-[Will be uploading soon](https://www.google.com) 
+ [Конференция «Искусственный интеллект:проблемы и пути их решения(2018)](https://drive.google.com/file/d/1aAsFLWXlnEunpIroojaqMpiKc8EEYic5/view?usp=sharing)
+ - [translate], [official], [Announcement], [Report]
  
-  ## Thailand
-[Will be uploading soon](https://www.google.com) 
- 
-  ## Turkey
-[Will be uploading soon](https://www.google.com) 
- 
-  ## United Arab Emirates
-[Will be uploading soon](https://www.google.com) 
- 
-  ## United States of America
-[Will be uploading soon](https://www.google.com) 
+[Указ Президента РФ от 10 октября 2019 г. No 490 "О развитии искусственного интеллекта в Российской Федерации”(2019)](https://drive.google.com/file/d/1412sUtM0nX3Ujhwy-6p78_HJ0E4IZTnV/view?usp=sharing) 
+- [translate], [official], [Announcement], [Report]
   
-  ## United Kingdom
-[Will be uploading soon](https://www.google.com) 
+ ## Saudi Arabia
+[REALIZING OUR BEST TOMORROW](https://drive.google.com/file/d/1zk6LE-bYcr9GJ8A0noqaVJIo3uU46fBJ/view?usp=sharing) 
+  - [official]
+
+ ## Sri Lanka
+[SLASSCOM launches national policy framework on Artificial Intelligence for Sri Lanka](https://drive.google.com/file/d/1fvXbCcNJuyt8YS9z0RgNkYKzQb1DPBeL/view?usp=sharing) 
+- [Announcement]
+
   
-  ## Uruguay
-[Will be uploading soon](https://www.google.com) 
- 
-  ## Ukraine
-[Will be uploading soon](https://www.google.com) 
- 
-  ## Vietnam
-[Will be uploading soon](https://www.google.com) 
+ ## Slovak Republic
+[Action plan for the digital transformation of Slovakia for 2019 –2022](https://drive.google.com/file/d/1YbDVTQ2GoB7PIypBV1aVtXvU5xK9QU3E/view?usp=sharing) 
+  - [official]
+
   
+ ## Republic of Serbia
+[Strategy for the Development of Artificial Intelligence in the Republic of Serbia for the period 2020-2025](https://drive.google.com/file/d/1zkYgwmAAAsujV6LUUCN-LjC3uDCvU8Vb/view?usp=sharing) 
+- [official]
+
+  
+ ## Singapore
+[National Artificial Intelligence Strategy ADVANCING OUR SMART NATION JOURNEY](https://drive.google.com/file/d/1Hjh2ITP0QMUeHJgTDeWBDh6zLB9aza3B/view?usp=sharing) 
+- [official]
+
+  
+ ## South Korea
+[Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society](https://drive.google.com/file/d/12bVsCR99Kj9V6nwJXzlO6kMdZh5r7RTa/view?usp=sharing) 
+- [official], [Sub-Policy]
+
+  
+ ## Spain
+[ESTRATEGIA NACIONAL DE INTELIGENCIA ARTIFICIAL](https://drive.google.com/file/d/19aEZXQ4yenCjIrBPirMoQthAN4bCUCTD/view?usp=sharing) 
+- [translate], [official]
+
+  
+ ## Sweden
+[National approach to artificial intelligence](https://drive.google.com/file/d/1J9bIVN-gl52UA46ja5Ua22mmhJ8Kx0Qp/view?usp=sharing) 
+- [official]
+
+  
+ ## Switzerland
+[Digital Switzerland Strategy](https://drive.google.com/file/d/1mU2J8Heusl7kD7e8w9pG11rIwx7efUmW/view?usp=sharing) 
+- [official], [Sub-Policy]
+ 
+ 
+ ## Taiwan
+[AI Taiwan](https://drive.google.com/file/d/1Ryazgu9ZYxZLItTSUMfwU69CyviTIzgu/view?usp=sharing) 
+- [official], [Announcement]
+
+ 
+ ## Turkey
+[NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY 2021-2025](https://drive.google.com/file/d/1AES4eLiE5hC_Le1c4ia68ukAu51vGgMD/view?usp=sharing) 
+- [official]
+
+ 
+ ## United Arab Emirates
+[UAE National Strategy For Artificial Intelligence 2031](https://drive.google.com/file/d/1tXcbP9SEM7x5w3l6un4eRvC9rlDXHNUx/view?usp=sharing) 
+- [official]
+
+ 
+ ## United States of America
+[PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://drive.google.com/file/d/1tjP0Q_9ysfp4Fza3fI_eb5z__CbVuWcS/view?usp=sharing) 
+- [official]
+
+  
+## United Kingdom
+[National AI Strategy](https://drive.google.com/file/d/1UH6xs5vz8apkTJ1MNPWTazaD2_GUaujj/view?usp=sharing) 
+- [official]
+
+## Uruguay
+[AI STRATEGY FOR THE DIGITAL GOVERNMENT](https://drive.google.com/file/d/1QcF6irrNO3_M71zEFt56kGpw4W-5i580/view?usp=sharing) 
+- [official]
+
+ 
+ ## Ukraine
+[НАЦІОНАЛЬНА СТРАТЕГІЯ РОЗВИТКУ ШТУЧНОГО](https://drive.google.com/file/d/1iHe85V_k7ITLWZi34yGQ0rYd72XgqcUD/view?usp=sharing) 
+- [translate], [official]
+
+ 
+ ## Vietnam
+[Prime minister decisions issuing the National Strategy on research, development and application of artificial intelligence until 2030](https://drive.google.com/file/d/1gw5TLQP455PqiTMP25idBVlLbOuZwbFD/view?usp=sharing) 
+  - [translate], [official],[Announcement], [Report]
+
 
 
 # International initiatives
