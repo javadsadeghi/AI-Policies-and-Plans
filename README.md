@@ -24,15 +24,15 @@ Use these tags to describe the quality of documents.
 # National Level
 
     
-  ## Argentinian
+## Argentinian
 [PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  2030 (2019)](https://drive.google.com/file/d/1LD1FndrOkBY-tYtiTYZxIP45RsfoCjo_/view?usp=sharing)
 - [translate], [official]
 
- ## Australia
+## Australia
 [Australia Artificial Intelligence Roadmap](https://drive.google.com/file/d/1iAxzrFg6as02QmWcEyGRkmzC1F7zcJgP/view?usp=sharing)
 -  [official]
 
- ## Austria
+## Austria
 [AIM AT 2030, Artificial Intelligence Mission Austria 2030 (2018)](https://drive.google.com/file/d/1AQOcTF_LMBAxw08Ba_7AhuajfO3nVmbg/view?usp=sharing)
 - [official],[translate]
 
@@ -45,15 +45,17 @@ Use these tags to describe the quality of documents.
 [AI 4Belgium (2021)](https://drive.google.com/file/d/1mtHNKyQl9Xkx-YwFnK3oMitDyzfZiAE3/view?usp=sharing)
 -  [official]
 
-  ## Brazil
+ ## Brazil
 [Estratégia Brasileira de Inteligência Artificial  -EBIA- (2021)](https://drive.google.com/file/d/16nH-c026-qLkXz8pA4Lo2Z1gv-ast6Ev/view?usp=sharing)
 - [translate], [official]
 
 ## Canada
 [pan-canadian artificial intelligence strategy(2017)](https://docs.google.com/presentation/d/1ybiRD9obndqyK_DXcIeCtXIjOCJI1RjW/edit?usp=sharing&ouid=108404796147178613134&rtpof=true&sd=true)
 - [official]
+
 [The Government of Canada-Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 - [official]
+
 ## China
 [Next Generation Artificial Intelligence Development Plan Issued by State Council (2017)](https://drive.google.com/file/d/1jw_A8LacZHOVJuYanpGE1IpIPcltkZV8/view?usp=sharing)
 - [translate], [official],  [Announcement], [Report]
@@ -128,6 +130,8 @@ Use these tags to describe the quality of documents.
 ## Italy
 [Strategia Nazionale per l’Intelligenza Artificiale (2020)](https://drive.google.com/file/d/1lnfPF_WiamQyjRLmHWgLWx8AKfnDPLcP/view?usp=sharing) 
 - [translate], [official]
+
+------------
 
 - [Making the most of artificial intelligence in Italy and Europe](https://libro-bianco-ia.readthedocs.io/en/latest/doc/making_the_most.html)
 
@@ -284,8 +288,9 @@ Use these tags to describe the quality of documents.
 - [official]
 
 ---------
-[AI Barometer 2020](https://www.gov.uk/government/publications/cdei-ai-barometer)
-[AI Barometer 2021 ](https://www.gov.uk/government/publications/ai-barometer-2021)
+- [AI Barometer 2020](https://www.gov.uk/government/publications/cdei-ai-barometer)
+- [AI Barometer 2021 ](https://www.gov.uk/government/publications/ai-barometer-2021)
+
 
 ## Uruguay
 [AI STRATEGY FOR THE DIGITAL GOVERNMENT](https://drive.google.com/file/d/1QcF6irrNO3_M71zEFt56kGpw4W-5i580/view?usp=sharing) 
@@ -301,7 +306,7 @@ Use these tags to describe the quality of documents.
 [Prime minister decisions issuing the National Strategy on research, development and application of artificial intelligence until 2030](https://drive.google.com/file/d/1gw5TLQP455PqiTMP25idBVlLbOuZwbFD/view?usp=sharing) 
   - [translate], [official],[Announcement], [Report]
 
-# Activities at the International Level
+# International Level
  ## EU
 - [COMMUNICATION FROM THE COMMISSION: Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
 
@@ -312,7 +317,6 @@ Use these tags to describe the quality of documents.
 - [A (more) visual guide to the proposed EU Artificial Intelligence Act](https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3)
 
 - [EU AI Researches Repository ](https://cordis.europa.eu/search?q=%27artificial%20intelligence%27%20AND%20(contenttype%3D%27project%27%20OR%20%2Farticle%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27brief%27%20OR%20%2Fresult%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27pubsum%27%2C%27deliverable%27%2C%27publication%27)&p=1&num=10&srt=Relevance:decreasing)
-
 
 - [Artificial Intelligence diplomacy Artificial Intelligence governance as a new European Union external policy tool](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662926/IPOL_STU(2021)662926_EN.pdf)
 
@@ -332,6 +336,7 @@ Use these tags to describe the quality of documents.
 
 # Useful Reports and Materials
 
+
 ## Accountability
 - [Algorithmic Accountability for the Public Sector ](https://www.opengovpartnership.org/wp-content/uploads/2021/08/algorithmic-accountability-public-sector.pdf)
 
@@ -345,9 +350,6 @@ Use these tags to describe the quality of documents.
 
 
 ## Trust
-- [INTELLIGENT ECONOMIES: AI’s transformation of industries and society](https://impact.economist.com/perspectives/sites/default/files/EIU_Microsoft%20-%20Intelligent%20Economies_AI%27s%20transformation%20of%20industries%20and%20society.pdf) A report from The Economist Intelligence Unit
-
-- [Empowered Data Societies:A Human-Centric Approach to Data Relationships](https://www3.weforum.org/docs/WEF_Empowered_Data_Societies_2021.pdf) This document is published by the World Economic Forum 
 
 - [On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
@@ -355,18 +357,31 @@ Use these tags to describe the quality of documents.
 
 - [White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
+- [INTELLIGENT ECONOMIES: AI’s transformation of industries and society](https://impact.economist.com/perspectives/sites/default/files/EIU_Microsoft%20-%20Intelligent%20Economies_AI%27s%20transformation%20of%20industries%20and%20society.pdf) A report from The Economist Intelligence Unit
+
+- [Empowered Data Societies:A Human-Centric Approach to Data Relationships](https://www3.weforum.org/docs/WEF_Empowered_Data_Societies_2021.pdf) This document is published by the World Economic Forum 
+
 ## Transparency
+
 - [Independent report Britain Thinks: Complete transparency, complete simplicity ](https://www.gov.uk/government/publications/cdei-publishes-commissioned-research-on-algorithmic-transparency-in-the-public-sector)
+- 
 - [Algorithmic transparency data standard](https://www.gov.uk/government/publications/algorithmic-transparency-data-standard)
+ 
 - [Transparency and Responsibility in Artificial Intelligence. A call for explainable A](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/innovatie/deloitte-nl-innovation-bringing-transparency-and-ethics-into-ai.pdf)
+
 - [Transparency in artificial intelligence](https://policyreview.info/pdf/policyreview-2020-2-1469.pdf)
+
 - [Applying Transparency in Artificial Intelligence based Personalization Systems](https://arxiv.org/pdf/2004.00935.pdf)
 
 ## Ethics
 - [Executive Summary: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_executive_summary_v2.pdf)
+
 - [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)
+
 - [Review into bias in algorithmic decision-making](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957259/Review_into_bias_in_algorithmic_decision-making.pdf)
+
 - [Independent report: Centre for Data Ethics and Innovation: Two year review ](https://www.gov.uk/government/publications/centre-for-data-ethics-and-innovation-two-year-review/centre-for-data-ethics-and-innovation-two-year-review)
+
 - [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
 
 ## labour market
@@ -379,7 +394,8 @@ Use these tags to describe the quality of documents.
 - [Artificial Intelligence and Employment(OECD)](https://www.oecd.org/future-of-work/reports-and-data/AI-Employment-brief-2021.pdf)
 
 
-## Other
+## Other Resources
+
 - [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
 
 - [CLIMATE CHANGE AND AI:Recommendations for Government Action](https://ceimia.org/wp-content/uploads/2021/10/Climate-Change-and-AI-5_2.pdf)
