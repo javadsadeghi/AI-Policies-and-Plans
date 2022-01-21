@@ -64,6 +64,9 @@ Use these tags to describe the quality of documents.
 [Ethical Norms for the New Generation Artificial Intelligence](https://ai-ethics-and-governance.institute/2021/09/27/the-ethical-norms-for-the-new-generation-artificial-intelligence-china/)
 - [official]
 
+----------
+- [Deciphering China’s AI Dream](https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf)
+
 
  ## Colombia
 [POLÍTICA NACIONAL PARA LA TRANSFORMACIÓN DIGITAL E INTELIGENCIA  ARTIFICIAL (2019)](https://drive.google.com/file/d/1QmR3Oul4jjNO2exx3BR3hDVu9vX2foIV/view?usp=sharing)
@@ -258,19 +261,29 @@ Use these tags to describe the quality of documents.
 [PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://drive.google.com/file/d/1tjP0Q_9ysfp4Fza3fI_eb5z__CbVuWcS/view?usp=sharing) 
 - [official]
 
+-----
+- [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/index.html)
   
 ## United Kingdom
 [National AI Strategy](https://drive.google.com/file/d/1UH6xs5vz8apkTJ1MNPWTazaD2_GUaujj/view?usp=sharing) 
 - [official]
- [The roadmap to an effective AI assurance ecosystem](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem)
- [ Guidelines for AI procurement ](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement)
+
+[The roadmap to an effective AI assurance ecosystem](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem)
+
+[ Guidelines for AI procurement ](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement)
 - [official]
+
 [A guide to using artificial intelligence in the public sector ](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector)
 - [official]
+
+
 [Planning and preparing for artificial intelligence implementation](https://www.gov.uk/guidance/planning-and-preparing-for-artificial-intelligence-implementation)
 - [official]
+
 [Managing your artificial intelligence project ](https://www.gov.uk/guidance/managing-your-artificial-intelligence-project)
 - [official]
+
+---------
 [AI Barometer 2020](https://www.gov.uk/government/publications/cdei-ai-barometer)
 [AI Barometer 2021 ](https://www.gov.uk/government/publications/ai-barometer-2021)
 
@@ -291,49 +304,64 @@ Use these tags to describe the quality of documents.
 # Activities at the International Level
  ## EU
 - [COMMUNICATION FROM THE COMMISSION: Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
+
 - [ Coordinated Plan with Member States: 2021 update](https://ec.europa.eu/newsroom/dae/redirection/document/75787)
+
 - [Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
+
 - [A (more) visual guide to the proposed EU Artificial Intelligence Act](https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3)
+
 - [EU AI Researches Repository ](https://cordis.europa.eu/search?q=%27artificial%20intelligence%27%20AND%20(contenttype%3D%27project%27%20OR%20%2Farticle%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27brief%27%20OR%20%2Fresult%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27pubsum%27%2C%27deliverable%27%2C%27publication%27)&p=1&num=10&srt=Relevance:decreasing)
+
+
 - [Artificial Intelligence diplomacy Artificial Intelligence governance as a new European Union external policy tool](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662926/IPOL_STU(2021)662926_EN.pdf)
- 
- ## UN
- 
+
+- [EU FUNDED PROJECTS THAT USE AI TECHNOLOGY](https://ec.europa.eu/newsroom/dae/redirection/document/75754)
+
+
  ## OECD
 - [Scoping the OECD AI principles](https://read.oecd-ilibrary.org/science-and-technology/scoping-the-oecd-ai-principles_d62f618a-en#page1)
+
 - [Hello, World.Artificial intelligence and its use in the public secto](https://read.oecd-ilibrary.org/governance/hello-world_726fd39d-en)
+
 - [OECD Recommendation of the Council on Artificial Intelligence](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
+
 - [STATE OF IMPLEMENTATION OF THE OECD AI PRINCIPLES INSIGHTS FROM NATIONAL AI POLICIES](https://www.oecd-ilibrary.org/docserver/1cd40c44-en.pdf?expires=1642783112&id=id&accname=guest&checksum=2571872AEF830677528FEB364D46BF9F)
+
 - [OECD AI Principles overview](https://oecd.ai/en/ai-principles)
 
 # Useful Reports and Materials
 
-## Accountability and Trust
+## Accountability
+- [Algorithmic Accountability for the Public Sector ](https://www.opengovpartnership.org/wp-content/uploads/2021/08/algorithmic-accountability-public-sector.pdf)
+
+- [An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/assets/gao-21-519sp.pdf)
+
+- [Responsible AI Toolbox Microsoft](https://github.com/microsoft/responsible-ai-toolbox/#responsible-ai-dashboard)
+
+- [Algorithmic Accountability Act of 2019](https://www.congress.gov/bill/116th-congress/house-bill/2231/text)
+
+- [Responsible AI for Social Media Governance A proposed collaborative method for studying the effects of social media recommender systems on users](https://gpai.ai/projects/responsible-ai/social-media-governance/responsible-ai-for-social-media-governance.pdf)
+
+
+## Trust
 - [INTELLIGENT ECONOMIES: AI’s transformation of industries and society](https://impact.economist.com/perspectives/sites/default/files/EIU_Microsoft%20-%20Intelligent%20Economies_AI%27s%20transformation%20of%20industries%20and%20society.pdf) A report from The Economist Intelligence Unit
 
 - [Empowered Data Societies:A Human-Centric Approach to Data Relationships](https://www3.weforum.org/docs/WEF_Empowered_Data_Societies_2021.pdf) This document is published by the World Economic Forum 
-
-- [An Accountability Framework for Federal Agencies and Other Entities](https://www.gao.gov/assets/gao-21-519sp.pdf)
 
 - [On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
 - [THE ASSESSMENT LIST FOR TRUSTWORTHY ARTIFICIAL INTELLIGENCE (ALTAI) for self assessment](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342)
 
-- [Responsible AI Toolbox Microsoft](https://github.com/microsoft/responsible-ai-toolbox/#responsible-ai-dashboard)
-
 - [White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
-- [Algorithmic Accountability Act of 2019](https://www.congress.gov/bill/116th-congress/house-bill/2231/text)
-- 
 
-## AI Ecosystem
-- [Empowering AI Leadership: AI C-Suite Toolkit](https://www3.weforum.org/docs/WEF_Empowering_AI_Leadership_2022.pdf)
-- [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
-- [AI 50: Americas Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=608776d177cf)
-- [EU FUNDED PROJECTS THAT USE AI TECHNOLOGY](https://ec.europa.eu/newsroom/dae/redirection/document/75754)
+## Transparency
+- [Independent report Britain Thinks: Complete transparency, complete simplicity ](https://www.gov.uk/government/publications/cdei-publishes-commissioned-research-on-algorithmic-transparency-in-the-public-sector)
+- [Algorithmic transparency data standard](https://www.gov.uk/government/publications/algorithmic-transparency-data-standard)
+- [Transparency and Responsibility in Artificial Intelligence. A call for explainable A](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/innovatie/deloitte-nl-innovation-bringing-transparency-and-ethics-into-ai.pdf)
+- [Transparency in artificial intelligence](https://policyreview.info/pdf/policyreview-2020-2-1469.pdf)
+- [Applying Transparency in Artificial Intelligence based Personalization Systems](https://arxiv.org/pdf/2004.00935.pdf)
 
-## US vs China
-- [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/index.html)
-- [Deciphering China’s AI Dream](https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf)
 ## Ethics
 - [Executive Summary: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_executive_summary_v2.pdf)
 - [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020)
@@ -341,39 +369,65 @@ Use these tags to describe the quality of documents.
 - [Independent report: Centre for Data Ethics and Innovation: Two year review ](https://www.gov.uk/government/publications/centre-for-data-ethics-and-innovation-two-year-review/centre-for-data-ethics-and-innovation-two-year-review)
 - [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
 
-## Other
-- [CLIMATE CHANGE AND AI:Recommendations for Government Action](https://ceimia.org/wp-content/uploads/2021/10/Climate-Change-and-AI-5_2.pdf)
-- [Responsible AI for Social Media Governance A proposed collaborative method for studying the effects of social media recommender systems on users](https://gpai.ai/projects/responsible-ai/social-media-governance/responsible-ai-for-social-media-governance.pdf)
-- [AI activity in UK businesses: Executive Summary](https://www.gov.uk/government/publications/ai-activity-in-uk-businesses/ai-activity-in-uk-businesses-executive-summary)
-- [UK AI COUNCIL AI ROA DM A P. An independent report ](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/949539/AI_Council_AI_Roadmap.pdf)
-- [A guide to using artificial intelligence in the public sector](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector#assess,-plan-and-manage-artificial-intelligence)
+## labour market
 - [Understanding the UK AI labour market: 2020](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984671/DCMS_and_Ipsos_MORI_Understanding_the_AI_Labour_Market_2020_Full_Report.pdf)
-- [Independent report Online targeting: Final report and recommendations ](https://www.gov.uk/government/publications/cdei-review-of-online-targeting/online-targeting-final-report-and-recommendations)
-- [Independent report BritainThinks: Complete transparency, complete simplicity ](https://www.gov.uk/government/publications/cdei-publishes-commissioned-research-on-algorithmic-transparency-in-the-public-sector)
-- ["GAO Report on FACIAL RECOGNITION TECHNOLOGY"](https://www.gao.gov/assets/gao-21-518.pdf)
-- [Thriving in
-an AI WorldUnlocking the value of AI: across seven key industries(KPMG)](https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2021/thrivingai2021.pdf)
-- [AI Governance:A Research Agenda](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda-1.pdf)
-- [Algorithmic Accountability for the Public Sector ](https://www.opengovpartnership.org/wp-content/uploads/2021/08/algorithmic-accountability-public-sector.pdf)
-- [Algorithmic transparency data standard](https://www.gov.uk/government/publications/algorithmic-transparency-data-standard)
+
 - [U.S. AI Workforce:Policy Recommendations](https://cset.georgetown.edu/wp-content/uploads/CSET-U.S.-AI-Workforce-Policy-Recommendations.pdf)
+
+- [The Impact of Artificial Intelligence on the Labor Market. Michael Webb. Stanford University](https://www.michaelwebb.co/webb_ai.pdf)
+
+- [Artificial Intelligence and Employment(OECD)](https://www.oecd.org/future-of-work/reports-and-data/AI-Employment-brief-2021.pdf)
+
+
+## Other
+- [A Framework for Developing a National Artificial Intelligence Strategy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwie_KSWjvL0AhWR_KQKHXeKDAkQFnoECAUQAQ&url=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_National_AI_Strategy.pdf&usg=AOvVaw3YskNrKNhfY6IvVI2RiLUW)
+
+- [CLIMATE CHANGE AND AI:Recommendations for Government Action](https://ceimia.org/wp-content/uploads/2021/10/Climate-Change-and-AI-5_2.pdf)
+
+- [UK AI COUNCIL AI ROADMAP. An independent report ](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/949539/AI_Council_AI_Roadmap.pdf)
+
+- [Independent report Online targeting: Final report and recommendations ](https://www.gov.uk/government/publications/cdei-review-of-online-targeting/online-targeting-final-report-and-recommendations)
+
+- [AI activity in UK businesses: Executive Summary](https://www.gov.uk/government/publications/ai-activity-in-uk-businesses/ai-activity-in-uk-businesses-executive-summary)
+
+- ["GAO Report on FACIAL RECOGNITION TECHNOLOGY"](https://www.gao.gov/assets/gao-21-518.pdf)
+
+- [Thriving in an AI World Unlocking the value of AI: across seven key industries(KPMG)](https://advisory.kpmg.us/content/dam/advisory/en/pdfs/2021/thrivingai2021.pdf)
+
+- [AI Governance:A Research Agenda](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda-1.pdf)
+
 - [ARTIFICIAL INTELLIGENCE FOR SOCIAL GOOD IN LATIN AMERICA AND THE CARIBBEAN: The Regional Landscape and 12 Country Snapshots ](https://publications.iadb.org/publications/english/document/Artificial-Intelligence-for-Social-Good-in-Latin-America-and-the-Caribbean-The-Regional-Landscape-and-12-Country-Snapshots.pdf)
+
 - [Trends in AI Research for the Visual Surveillance of Populations](https://cset.georgetown.edu/wp-content/uploads/Surveillance-in-the-CV-Literature.pdf)
+
+- [Empowering AI Leadership: AI C-Suite Toolkit](https://www3.weforum.org/docs/WEF_Empowering_AI_Leadership_2022.pdf)
+
+- [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
+
  
 # Inistitutes
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+
 - [The Global Partnership on Artificial Intelligence (GPAI)](https://gpai.ai/)
+
 - [Climate Change AI](https://www.climatechange.ai/)
+
 - [The Centre for AI & Climate](https://www.c-ai-c.org/)
+
 - [AI Council ](https://www.gov.uk/government/groups/ai-council)
+
 - [European AI Alliance](https://futurium.ec.europa.eu/en/european-ai-alliance)
+
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
+
 - [AI Now Institute](https://ainowinstitute.org/)
 
 
 # Dashboards
 - [AI Watch Dashboards (European Commission)](https://web.jrc.ec.europa.eu/dashboard/AI_WATCH_LANDSCAPE/index.html?bookmark=overview&rdr=1641931606459)
+
 - [AI WATCH INVESTMENTS](https://web.jrc.ec.europa.eu/dashboard2/AI_WATCH_INVESTMENTS/index.html?bookmark=overview)
+
 - [AI History Timeline](https://knowledge4policy.ec.europa.eu/visualisation/ai-history-timeline_en)
 
 - [TOOLBOX: Dynamics of AI Principles (AI ETHICS LAB)](https://aiethicslab.com/big-picture/)
@@ -384,4 +438,4 @@ an AI WorldUnlocking the value of AI: across seven key industries(KPMG)](https:/
 
 - [OECD LIVE DATA (section:AI publications vs GDP per capita by country, region, over time (MAG))](https://oecd.ai/en/data-from-partners?selectedArea=ai-research)
 
-
+- [Executive’s guide to developing AI at scale](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/executives-guide-to-developing-ai-at-scale#intro)
