@@ -364,7 +364,7 @@ Use these tags to describe the quality of documents.
 ## Transparency
 
 - [Independent report Britain Thinks: Complete transparency, complete simplicity ](https://www.gov.uk/government/publications/cdei-publishes-commissioned-research-on-algorithmic-transparency-in-the-public-sector)
-- 
+
 - [Algorithmic transparency data standard](https://www.gov.uk/government/publications/algorithmic-transparency-data-standard)
  
 - [Transparency and Responsibility in Artificial Intelligence. A call for explainable A](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/innovatie/deloitte-nl-innovation-bringing-transparency-and-ethics-into-ai.pdf)
