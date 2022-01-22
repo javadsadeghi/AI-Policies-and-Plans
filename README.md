@@ -420,6 +420,7 @@ Use these tags to describe the quality of documents.
 
 - [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
+- [Government AI Readiness Index 2021](https://static1.squarespace.com/static/58b2e92c1e5b6c828058484e/t/61e95661c567937d21998d14/1642681965033/Gov_AI_Readiness_2021.pdf)
  
 # Inistitutes
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
