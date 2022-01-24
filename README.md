@@ -322,6 +322,7 @@ Use these tags to describe the quality of documents.
 
 - [EU FUNDED PROJECTS THAT USE AI TECHNOLOGY](https://ec.europa.eu/newsroom/dae/redirection/document/75754)
 
+-[Harmonising Artificial Intelligence: The role of standards in the EU AI Regulation](https://oxil.uk/publications/2021-12-02-oxford-internet-institute-oxil-harmonising-ai/Harmonising-AI-OXIL.pdf)
 
  ## OECD
 - [Scoping the OECD AI principles](https://read.oecd-ilibrary.org/science-and-technology/scoping-the-oecd-ai-principles_d62f618a-en#page1)
