@@ -457,6 +457,8 @@ Use these tags to describe the quality of documents.
 
 - [AI Now Institute](https://ainowinstitute.org/)
 
+- [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
+
 
 # Dashboards
 - [AI Watch Dashboards (European Commission)](https://web.jrc.ec.europa.eu/dashboard/AI_WATCH_LANDSCAPE/index.html?bookmark=overview&rdr=1641931606459)
