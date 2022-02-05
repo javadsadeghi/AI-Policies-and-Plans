@@ -12,12 +12,19 @@ I think we need an “Awesome” of useful documents related to the AI policies 
 - [translate], [official], [Sub-Policy], [Announcement], [Draft], [Report]
 
 Use these tags to describe the quality of documents.
-- [translate] => This file need translation.
-- [official] => This file is published by a official office.
-- [Sub-Policy] => AI policy is a sub-policy of another general policy.
-- [Announcement] => AI policy is not published but we now it is approved by an official authority.
-- [Draft] => When only a preliminary draft of policy is  available.
-- [Report] => A report or news is our source and informs us about the policy.
+
+- [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+ => This file is published by a official office.
+- [![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+ => This file need translation.
+- [![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+ => AI policy is a sub-policy of another general policy.
+- [![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+ => AI policy is not published but we now it is approved by an official authority.
+- [![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+ => When only a preliminary draft of policy is  available.
+- [![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+ => A report or news is our source and informs us about the policy.
 
 
 
@@ -26,19 +33,29 @@ Use these tags to describe the quality of documents.
     
 ## Argentinian
 [PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  2030 (2019)](https://drive.google.com/file/d/1LD1FndrOkBY-tYtiTYZxIP45RsfoCjo_/view?usp=sharing)
-- [translate], [official]
+- ```[translate]```, `[official]`
 
 ## Australia
 [Australia Artificial Intelligence Roadmap](https://drive.google.com/file/d/1iAxzrFg6as02QmWcEyGRkmzC1F7zcJgP/view?usp=sharing)
--  [official]
 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+
+
+ 
 ## Austria
 [AIM AT 2030, Artificial Intelligence Mission Austria 2030 (2018)](https://drive.google.com/file/d/1AQOcTF_LMBAxw08Ba_7AhuajfO3nVmbg/view?usp=sharing)
-- [official],[translate]
+- `[official]` `[translate]`
 
 ## Bangladesh 
 [NATIONAL STRATEGY FOR ARTIFICIAL INTELLIGENCE OF BANGLADESH (2019)](https://drive.google.com/file/d/1TMNIkecoNql-AB8Y4U3c6HiOMOTDzX9t/view?usp=sharing)
- -  [official], [Draft]
+ -  `official`, `Draft`
 
 
  ## Belgium
