@@ -618,11 +618,15 @@ Use these tags to describe the quality of documents.
  
 # Inistitutes<a name="Inistitutes"></a>
 
+- [AI4EU ](https://www.ai4europe.eu)
+
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
 
 - [AI Ethics Lab](https://t.co/HNjmR2WYtM)
 
 - [AI Impact Alliance](http://allianceimpact.org/)
+
+- [AI Policy Labs](https://aipolicylabs.org/)
 
 - [amii](https://www.amii.ca/)
 
