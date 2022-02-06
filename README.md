@@ -8,7 +8,73 @@ I think we need an “Awesome” of useful documents related to the AI policies 
  3. Being inclusive. There are lots of efforts and like this awesome to build a directory of policies, but most of them focused on a specific region or countries which are a member of an international organization. Here we try to look at whole world countries. 
  4. Finally, here we try to look at and classify the document with a policymaking point of view.
 
-### Tags:
+
+# Table of contents
+1. [National Level](#NationalLevel)
+2. [Australia](#Australia)
+3. [Australia](#Australia)
+4. [Tags](#Tags)
+    1. [Sub paragraph](#subparagraph1)
+    2. [Sub paragraph](#subparagraph1)
+    3. [Sub paragraph](#subparagraph1)
+    4. [Sub paragraph](#subparagraph1)
+    5. [Sub paragraph](#subparagraph1)
+    6. [Sub paragraph](#subparagraph1)
+    7. [Sub paragraph](#subparagraph1)
+    8. [Sub paragraph](#subparagraph1)
+    9. [Sub paragraph](#subparagraph1)
+    10. [Sub paragraph](#subparagraph1)
+    11. [Sub paragraph](#subparagraph1)
+    12. [Sub paragraph](#subparagraph1)
+    13. [Sub paragraph](#subparagraph1)
+    14. [Sub paragraph](#subparagraph1)
+    15. [Sub paragraph](#subparagraph1)
+    16. [Sub paragraph](#subparagraph1)
+    17. [Sub paragraph](#subparagraph1)
+    18. [Sub paragraph](#subparagraph1)
+    19. [Sub paragraph](#subparagraph1)
+    20. [Sub paragraph](#subparagraph1)
+    21. [Sub paragraph](#subparagraph1)
+    22. [Sub paragraph](#subparagraph1)
+    23. [Sub paragraph](#subparagraph1)
+    24. [Sub paragraph](#subparagraph1)
+    25. [Sub paragraph](#subparagraph1)
+    26. [Sub paragraph](#subparagraph1)
+    27. [Sub paragraph](#subparagraph1)
+    28. [Sub paragraph](#subparagraph1)
+    29. [Sub paragraph](#subparagraph1)
+    30. [Sub paragraph](#subparagraph1)
+    31. [Sub paragraph](#subparagraph1)
+    32. [Sub paragraph](#subparagraph1)
+    33. [Sub paragraph](#subparagraph1)
+    34. [Sub paragraph](#subparagraph1)
+    35. [Sub paragraph](#subparagraph1)
+    36. [Sub paragraph](#subparagraph1)
+    37. [Sub paragraph](#subparagraph1)
+    38. [Sub paragraph](#subparagraph1)
+    39. [Sub paragraph](#subparagraph1)
+    40. [Sub paragraph](#subparagraph1)
+    41. [Sub paragraph](#subparagraph1)
+    42. [Sub paragraph](#subparagraph1)
+    43. [Sub paragraph](#subparagraph1)
+    44. [Sub paragraph](#subparagraph1)
+5. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
+
+
+### Tags:<a name="Tags"></a>
 - [translate], [official], [Sub-Policy], [Announcement], [Draft], [Report]
 
 Use these tags to describe the quality of documents.
@@ -27,61 +93,74 @@ Use these tags to describe the quality of documents.
  => A report or news is our source and informs us about the policy.
 
 
-
-# National Level
+# National Level<a name="NationalLevel"></a>
 
     
 ## Argentinian
 [PLAN NACIONAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  2030 (2019)](https://drive.google.com/file/d/1LD1FndrOkBY-tYtiTYZxIP45RsfoCjo_/view?usp=sharing)
-- ```[translate]```, `[official]`
-
-## Australia
-[Australia Artificial Intelligence Roadmap](https://drive.google.com/file/d/1iAxzrFg6as02QmWcEyGRkmzC1F7zcJgP/view?usp=sharing)
 
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
-[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
-[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
-[![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
-[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
+## Australia<a name="Australia"></a>
+[Australia Artificial Intelligence Roadmap](https://drive.google.com/file/d/1iAxzrFg6as02QmWcEyGRkmzC1F7zcJgP/view?usp=sharing)
 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 
  
-## Austria
+## Austria<a name="Australia"></a>
 [AIM AT 2030, Artificial Intelligence Mission Austria 2030 (2018)](https://drive.google.com/file/d/1AQOcTF_LMBAxw08Ba_7AhuajfO3nVmbg/view?usp=sharing)
-- `[official]` `[translate]`
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Bangladesh 
 [NATIONAL STRATEGY FOR ARTIFICIAL INTELLIGENCE OF BANGLADESH (2019)](https://drive.google.com/file/d/1TMNIkecoNql-AB8Y4U3c6HiOMOTDzX9t/view?usp=sharing)
- -  `official`, `Draft`
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 
  ## Belgium
 [AI 4Belgium (2021)](https://drive.google.com/file/d/1mtHNKyQl9Xkx-YwFnK3oMitDyzfZiAE3/view?usp=sharing)
--  [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  ## Brazil
 [Estratégia Brasileira de Inteligência Artificial  -EBIA- (2021)](https://drive.google.com/file/d/16nH-c026-qLkXz8pA4Lo2Z1gv-ast6Ev/view?usp=sharing)
-- [translate], [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ## Canada
 [pan-canadian artificial intelligence strategy(2017)](https://docs.google.com/presentation/d/1ybiRD9obndqyK_DXcIeCtXIjOCJI1RjW/edit?usp=sharing&ouid=108404796147178613134&rtpof=true&sd=true)
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 [The Government of Canada-Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ## China
 [Next Generation Artificial Intelligence Development Plan Issued by State Council (2017)](https://drive.google.com/file/d/1jw_A8LacZHOVJuYanpGE1IpIPcltkZV8/view?usp=sharing)
-- [translate], [official],  [Announcement], [Report]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [China AI principels (2019)](https://drive.google.com/file/d/1eLTgVH8hj9sLRcVPW5BjQ9bVil0ZXul3/view?usp=sharing)
-- [official], [Sub-Policy]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [Ethical Norms for the New Generation Artificial Intelligence](https://ai-ethics-and-governance.institute/2021/09/27/the-ethical-norms-for-the-new-generation-artificial-intelligence-china/)
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ----------
 - [Deciphering China’s AI Dream](https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf)
@@ -89,64 +168,90 @@ Use these tags to describe the quality of documents.
 
  ## Colombia
 [POLÍTICA NACIONAL PARA LA TRANSFORMACIÓN DIGITAL E INTELIGENCIA  ARTIFICIAL (2019)](https://drive.google.com/file/d/1QmR3Oul4jjNO2exx3BR3hDVu9vX2foIV/view?usp=sharing)
-- [translate], [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  ## Chile
 [Hacia una estrategia  de I+D+i+S en Inteligencia Artificial  para Chile (2019)](https://drive.google.com/file/d/1nzTdN83HdFeUyfKH_q6oaJsW_FPHn44s/view?usp=sharing)
-- [translate], [Report]
+
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Cyprus
 [Εθνική Στρατηγική Τεχνητής Νοημοσύνης (ΤΝ): Δράσεις για την Αξιοποίηση και Ανάπτυξη της ΤΝ στη Κύπρο](https://drive.google.com/file/d/1IvcOrzwipJgGeaw3WSY3VXIbdMjQtVP4/view?usp=sharing) 
-- [translate], [official],
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  ## Czech Republic
 [National Artificial Intelligence Strategy of the Czech Republic (2019)](https://drive.google.com/file/d/1eBCjdRmtdSCkgoU0dXwJ41gz_7eWLAzF/view?usp=sharing) 
-- [official]
-  
- ## Denmark
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+## Denmark
 [National Strategy for Artifcial Intelligence](https://drive.google.com/file/d/1fd_aGqz-WbPO2dfLHe6vxVEFSqwDZg_O/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
   
  ## Egypt
 [egypt national artificial intelligence strategy (2021)](https://drive.google.com/file/d/1NCXJETnbN99rm2k_H39XDsZ9aeGoEcko/view?usp=sharing) 
-- [official]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## Estonia
 [AI - “kratt” strategy](https://drive.google.com/file/d/16x3O9V33BnRDf2BhKBv-r9UAGTCOQS8G/view?usp=sharing) 
-- [translate], [official], [Report]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## Finland
 [Finland’s Age of Artificial Intelligence (2017)](https://drive.google.com/file/d/14aAaDmqEyCoKfWnPEBIfdsnqG7zihbLl/view?usp=sharing) 
-- [official]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## France
 [FOR A MEANINGFUL ARTIFICIAL INTELLIGENCE (2017)](https://drive.google.com/file/d/1A9YHefsvjNrIcOXcXxMXebHZeeVU9Wex/view?usp=sharing) 
--[official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  ## German
 [Eckpunkte der Bundesregierung für eine Strategie Künstliche Intelligenz (2018)](https://drive.google.com/file/d/1Cb99fz0lDyDXPRF5Kbhb1uwmG7161HMP/view?usp=sharing) 
- - [translate], [official], [Report]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Hungary
 [Hungary’s Artificial Intelligence Strategy (2020)](https://drive.google.com/file/d/1i1aljCkWx8pLj7W-Q_Tvdhn7Nsj3P3L9/view?usp=sharing) 
-- [official]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
  ## Ireland
 [AI - Here for Good A National Artificial Intelligence Strategy for Ireland (2021)](https://drive.google.com/file/d/1YKhb5Sx_9E7RRmP-EoWBtMou-TkjMtSx/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## India
  [RESPONSIBLE AI #AIFORALL (2021)](https://drive.google.com/file/d/1OCPY1fT49v4oPknuIYT-f1kcjGAMVRG4/view?usp=sharing) 
-- [official], [Report]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Indonesia
 [STRATEGI NASIONAL KECERDASAN ARTIFISIAL  INDONESIA (2020)](https://drive.google.com/file/d/1sw2WDfS2_SZxYF1nLoZ-XlHKRN4bDSbC/view?usp=sharing) 
-- [translate], [official]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Italy
 [Strategia Nazionale per l’Intelligenza Artificiale (2020)](https://drive.google.com/file/d/1lnfPF_WiamQyjRLmHWgLWx8AKfnDPLcP/view?usp=sharing) 
-- [translate], [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ------------
 
@@ -154,155 +259,212 @@ Use these tags to describe the quality of documents.
 
 ## Japan
 [ARTIFICIAL INTELLIGENCE IN JAPAN (2020)](https://drive.google.com/file/d/1W2UZ6UFNMr0gMjgHUS7RLVsBv8AR07Uc/view?usp=sharing) 
-- [official]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Latvia
 [Informatīvais ziņojums “Par mākslīgā intelekta  risinājumu attīstību (2020)](https://drive.google.com/file/d/1aeCof8kXZ2Tmpt9c-Gz_Qaaahv5j65v_/view?usp=sharing) 
-- [translate], [Report]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Lithuanian
 [LITHUANIAN ARTIFICIAL INTELLIGENCE STRATEGY (2020)](https://drive.google.com/file/d/1WbTcgTZQ6qP0mjadFzX10o094GfSo4pW/view?usp=sharing) 
-- [official]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Luxembourg
 [Artificial Intelligence: a strategic vision for Luxembourg (2019)](https://drive.google.com/file/d/1lffToWtdiMBQcEYTb-YJ7kyS6T7bTaZL/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
 ## Malta
 [Malta: The Ultimate AI Launchpad (2019)](https://drive.google.com/file/d/16odNvTfPhNNBd0ovXrouvLNXBSbk7-0W/view?usp=sharing) 
- - [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Malaysia
 [Malaysia Artificial Intelligence (AI) Roadmap ](https://airmap.my/ai-roadmap-overview/) 
-- [official], [Sub-Policy], [Report]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Mexico
 [TOWARDS AN AI STRATEGY IN MEXICO:Harnessing the AI Revolution](https://drive.google.com/file/d/1YCaETafEubTDNjNCxvTNHGuwizH_TNrj/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ## Netherlands
 [Strategic Action Plan for Artificial Intelligence](https://drive.google.com/file/d/1YALbDH5zENX5jIi3ck6uBPcHOrdHQI9p/view?usp=sharing) 
-- [official]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
 ## New Zealand
 [GOVERNMENT USE of ARTIFICIAL INTELLIGENCE in NEW ZEALAND](https://drive.google.com/file/d/1IN6gwt_Ki2DwUmimzFSMQFAOraD3HuwT/view?usp=sharing) 
-- [official]
-    
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Norway
 [National Strategy for Artificial Intelligence](https://drive.google.com/file/d/1GszySTTFYjDm2bB-sVkf63uuXMaxV6hz/view?usp=sharing) 
- - [official]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
 ## Poland
 [w sprawie ustanowienia „Polityki dla rozwoju sztucznej inteligencji w Polsce od roku 2020”](https://drive.google.com/file/d/1L9EBMBjbw8rjC4XE5JYnRXqmUiSY9Tii/view?usp=sharing) 
-- [translate], [official]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Peru
 [NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY](https://drive.google.com/file/d/1Lcp3nbcWK0wOv1U7GxIr0uxqKtGbOQjg/view?usp=sharing) 
-- [official], [Sub-Policy], [Draft]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 ## Portugal
 [AI PORTUGAL 2030](https://drive.google.com/file/d/1xfTJwNmz9SxFxOXIg4T6ciESszEmtkuW/view?usp=sharing) 
- - [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ## Qatar
 [Blueprint: NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY FOR QATAR](https://drive.google.com/file/d/1O9RJx-oWWco9Yoxax-hsajXSgErEpywK/view?usp=sharing) 
- - [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ## Romania
 [Romania in the era of Artificial Intelligence](https://drive.google.com/file/d/1jQ1__xscTEbR5QZNHfhPPPjjrY62fDb4/view?usp=sharing)
-- [official], [Draft]
 
- ## Russia
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+## Russia
  
  [Конференция «Искусственный интеллект:проблемы и пути их решения(2018)](https://drive.google.com/file/d/1aAsFLWXlnEunpIroojaqMpiKc8EEYic5/view?usp=sharing)
- - [translate], [official], [Announcement], [Report]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 [Указ Президента РФ от 10 октября 2019 г. No 490 "О развитии искусственного интеллекта в Российской Федерации”(2019)](https://drive.google.com/file/d/1412sUtM0nX3Ujhwy-6p78_HJ0E4IZTnV/view?usp=sharing) 
-- [translate], [official], [Announcement], [Report]
-  
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## Saudi Arabia
 [REALIZING OUR BEST TOMORROW](https://drive.google.com/file/d/1zk6LE-bYcr9GJ8A0noqaVJIo3uU46fBJ/view?usp=sharing) 
-  - [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  ## Sri Lanka
 [SLASSCOM launches national policy framework on Artificial Intelligence for Sri Lanka](https://drive.google.com/file/d/1fvXbCcNJuyt8YS9z0RgNkYKzQb1DPBeL/view?usp=sharing) 
-- [Announcement]
+
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
   
  ## Slovak Republic
 [Action plan for the digital transformation of Slovakia for 2019 –2022](https://drive.google.com/file/d/1YbDVTQ2GoB7PIypBV1aVtXvU5xK9QU3E/view?usp=sharing) 
-  - [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
   
  ## Republic of Serbia
 [Strategy for the Development of Artificial Intelligence in the Republic of Serbia for the period 2020-2025](https://drive.google.com/file/d/1zkYgwmAAAsujV6LUUCN-LjC3uDCvU8Vb/view?usp=sharing) 
-- [official]
 
-  
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## Singapore
 [National Artificial Intelligence Strategy ADVANCING OUR SMART NATION JOURNEY](https://drive.google.com/file/d/1Hjh2ITP0QMUeHJgTDeWBDh6zLB9aza3B/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
   
  ## South Korea
 [Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society](https://drive.google.com/file/d/12bVsCR99Kj9V6nwJXzlO6kMdZh5r7RTa/view?usp=sharing) 
-- [official], [Sub-Policy]
 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
   
  ## Spain
 [ESTRATEGIA NACIONAL DE INTELIGENCIA ARTIFICIAL](https://drive.google.com/file/d/19aEZXQ4yenCjIrBPirMoQthAN4bCUCTD/view?usp=sharing) 
-- [translate], [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
   
  ## Sweden
 [National approach to artificial intelligence](https://drive.google.com/file/d/1J9bIVN-gl52UA46ja5Ua22mmhJ8Kx0Qp/view?usp=sharing) 
-- [official]
 
-  
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## Switzerland
 [Digital Switzerland Strategy](https://drive.google.com/file/d/1mU2J8Heusl7kD7e8w9pG11rIwx7efUmW/view?usp=sharing) 
-- [official], [Sub-Policy]
- 
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  
  ## Taiwan
 [AI Taiwan](https://drive.google.com/file/d/1Ryazgu9ZYxZLItTSUMfwU69CyviTIzgu/view?usp=sharing) 
-- [official], [Announcement]
 
- 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
  ## Turkey
 [NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY 2021-2025](https://drive.google.com/file/d/1AES4eLiE5hC_Le1c4ia68ukAu51vGgMD/view?usp=sharing) 
-- [official]
 
- 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
  ## United Arab Emirates
 [UAE National Strategy For Artificial Intelligence 2031](https://drive.google.com/file/d/1tXcbP9SEM7x5w3l6un4eRvC9rlDXHNUx/view?usp=sharing) 
-- [official]
 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
  
  ## United States of America
 [PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://drive.google.com/file/d/1tjP0Q_9ysfp4Fza3fI_eb5z__CbVuWcS/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 -----
 - [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/index.html)
   
 ## United Kingdom
 [National AI Strategy](https://drive.google.com/file/d/1UH6xs5vz8apkTJ1MNPWTazaD2_GUaujj/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 [The roadmap to an effective AI assurance ecosystem](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem)
 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 [ Guidelines for AI procurement ](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement)
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [A guide to using artificial intelligence in the public sector ](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector)
-- [official]
 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [Planning and preparing for artificial intelligence implementation](https://www.gov.uk/guidance/planning-and-preparing-for-artificial-intelligence-implementation)
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 [Managing your artificial intelligence project ](https://www.gov.uk/guidance/managing-your-artificial-intelligence-project)
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ---------
 - [AI Barometer 2020](https://www.gov.uk/government/publications/cdei-ai-barometer)
@@ -311,17 +473,23 @@ Use these tags to describe the quality of documents.
 
 ## Uruguay
 [AI STRATEGY FOR THE DIGITAL GOVERNMENT](https://drive.google.com/file/d/1QcF6irrNO3_M71zEFt56kGpw4W-5i580/view?usp=sharing) 
-- [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  
  ## Ukraine
 [НАЦІОНАЛЬНА СТРАТЕГІЯ РОЗВИТКУ ШТУЧНОГО](https://drive.google.com/file/d/1iHe85V_k7ITLWZi34yGQ0rYd72XgqcUD/view?usp=sharing) 
-- [translate], [official]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
  
  ## Vietnam
 [Prime minister decisions issuing the National Strategy on research, development and application of artificial intelligence until 2030](https://drive.google.com/file/d/1gw5TLQP455PqiTMP25idBVlLbOuZwbFD/view?usp=sharing) 
-  - [translate], [official],[Announcement], [Report]
+
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 # International Level
  ## EU
