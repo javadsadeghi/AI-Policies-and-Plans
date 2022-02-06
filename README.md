@@ -617,23 +617,58 @@ Use these tags to describe the quality of documents.
 - [Government AI Readiness Index 2021](https://static1.squarespace.com/static/58b2e92c1e5b6c828058484e/t/61e95661c567937d21998d14/1642681965033/Gov_AI_Readiness_2021.pdf)
  
 # Inistitutes<a name="Inistitutes"></a>
-- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
-
-- [The Global Partnership on Artificial Intelligence (GPAI)](https://gpai.ai/)
-
-- [Climate Change AI](https://www.climatechange.ai/)
-
-- [The Centre for AI & Climate](https://www.c-ai-c.org/)
-
-- [AI Council ](https://www.gov.uk/government/groups/ai-council)
-
-- [European AI Alliance](https://futurium.ec.europa.eu/en/european-ai-alliance)
 
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
 
 - [AI Now Institute](https://ainowinstitute.org/)
 
+- [AlgorithmWatch](https://algorithmwatch.org/en/)
+
+- [Center for AI and Digital Policy]()
+
+- [Center for Human-Compatible AI (CHAI)](https://humancompatible.ai/)
+
+- [Center for Information Technology Policy (CITP)– Princeton University](https://citp.princeton.edu/)
+
+- [Climate Change AI](https://www.climatechange.ai/)
+
 - [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
+
+- [Ethical AI Governance Platform ](https://anch.ai/)
+
+- [European AI Alliance](https://futurium.ec.europa.eu/en/european-ai-alliance)
+
+- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+
+- [human-centered Artificial Intelligence(HAI)](https://hai.stanford.edu/)
+
+- [Machine Intelligence Research Institute](https://intelligence.org/)
+
+- [MONTREAL AI ETHICS INSTITUTE](https://montrealethics.ai/)
+
+- [MIT's Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/about/mission-history)
+
+- [Next Generation Artificial Intelligence Research Center (AI Center)](https://www.ai.u-tokyo.ac.jp/en/)
+
+- [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/)
+
+- [The Alan Turing Institute](https://www.turing.ac.uk/)
+
+- [The Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/)
+
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/)
+
+- [The Global Partnership on Artificial Intelligence (GPAI)](https://gpai.ai/)
+
+- [The National Security Commission on Artificial Intelligenc](https://www.nscai.gov/)
+
+-[ The Open Community for Ethics in Autonomous and Intelligent Systems (OCEANIS)](https://ethicsstandards.org/)
+
+-[Partnership on AI](https://partnershiponai.org/)
+
+- [The Centre for AI & Climate](https://www.c-ai-c.org/)
+
+
 
 
 # Dashboards<a name="Dashboards"></a>
@@ -652,3 +687,5 @@ Use these tags to describe the quality of documents.
 - [OECD LIVE DATA (section:AI publications vs GDP per capita by country, region, over time (MAG))](https://oecd.ai/en/data-from-partners?selectedArea=ai-research)
 
 - [Executive’s guide to developing AI at scale](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/executives-guide-to-developing-ai-at-scale#intro)
+
+- [FLI Value Alignment Research Landscape](https://futureoflife.org/valuealignmentmap/)
