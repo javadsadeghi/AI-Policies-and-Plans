@@ -620,15 +620,25 @@ Use these tags to describe the quality of documents.
 
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
 
+- [AI Ethics Lab](https://t.co/HNjmR2WYtM)
+
+- [AI Impact Alliance](http://allianceimpact.org/)
+
+- [amii](https://www.amii.ca/)
+
 - [AI Now Institute](https://ainowinstitute.org/)
 
 - [AlgorithmWatch](https://algorithmwatch.org/en/)
+
+- [Big Data and AI Toronto](https://linktr.ee/bigdataAITO)
 
 - [Center for AI and Digital Policy]()
 
 - [Center for Human-Compatible AI (CHAI)](https://humancompatible.ai/)
 
 - [Center for Information Technology Policy (CITP)– Princeton University](https://citp.princeton.edu/)
+
+- [CIFAR ](https://cifar.ca/)
 
 - [Climate Change AI](https://www.climatechange.ai/)
 
@@ -638,7 +648,11 @@ Use these tags to describe the quality of documents.
 
 - [European AI Alliance](https://futurium.ec.europa.eu/en/european-ai-alliance)
 
+- [FARI, AI Institute for the Common Good ](https://fari.brussels/)
+
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+
+- [Global Partnership on Artificial Intelligence (GPAI)](https://gpai.ai/)
 
 - [human-centered Artificial Intelligence(HAI)](https://hai.stanford.edu/)
 
@@ -646,9 +660,13 @@ Use these tags to describe the quality of documents.
 
 - [MONTREAL AI ETHICS INSTITUTE](https://montrealethics.ai/)
 
+- [Mila](https://mila.quebec/en/)
+
 - [MIT's Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/about/mission-history)
 
 - [Next Generation Artificial Intelligence Research Center (AI Center)](https://www.ai.u-tokyo.ac.jp/en/)
+
+- [OpenAI](https://openai.com)
 
 - [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/)
 
@@ -662,11 +680,15 @@ Use these tags to describe the quality of documents.
 
 - [The National Security Commission on Artificial Intelligenc](https://www.nscai.gov/)
 
--[ The Open Community for Ethics in Autonomous and Intelligent Systems (OCEANIS)](https://ethicsstandards.org/)
+- [The Open Community for Ethics in Autonomous and Intelligent Systems (OCEANIS)](https://ethicsstandards.org/)
 
--[Partnership on AI](https://partnershiponai.org/)
+- [Partnership on AI](https://partnershiponai.org/)
+
+- [Responsible AI Network – Africa(RAIN-Africa)](https://rainafrica.org/)
 
 - [The Centre for AI & Climate](https://www.c-ai-c.org/)
+
+- [Vector Institute](https://vectorinstitute.ai/)
 
 
 
