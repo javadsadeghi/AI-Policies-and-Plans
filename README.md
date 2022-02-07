@@ -144,30 +144,24 @@ Use these tags to describe the quality of documents.
 
 ## Canada<a name="Canada"></a>
 [pan-canadian artificial intelligence strategy(2017)](https://docs.google.com/presentation/d/1ybiRD9obndqyK_DXcIeCtXIjOCJI1RjW/edit?usp=sharing&ouid=108404796147178613134&rtpof=true&sd=true)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
-
 [The Government of Canada-Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 
 ## China<a name="China"></a>
 [Next Generation Artificial Intelligence Development Plan Issued by State Council (2017)](https://drive.google.com/file/d/1jw_A8LacZHOVJuYanpGE1IpIPcltkZV8/view?usp=sharing)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [China AI principels (2019)](https://drive.google.com/file/d/1eLTgVH8hj9sLRcVPW5BjQ9bVil0ZXul3/view?usp=sharing)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [Ethical Norms for the New Generation Artificial Intelligence](https://ai-ethics-and-governance.institute/2021/09/27/the-ethical-norms-for-the-new-generation-artificial-intelligence-china/)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 ----------
@@ -355,14 +349,12 @@ Use these tags to describe the quality of documents.
 ## Russia<a name="Russia"></a>
  
  [Конференция «Искусственный интеллект:проблемы и пути их решения(2018)](https://drive.google.com/file/d/1aAsFLWXlnEunpIroojaqMpiKc8EEYic5/view?usp=sharing)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [Указ Президента РФ от 10 октября 2019 г. No 490 "О развитии искусственного интеллекта в Российской Федерации”(2019)](https://drive.google.com/file/d/1412sUtM0nX3Ujhwy-6p78_HJ0E4IZTnV/view?usp=sharing) 
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
@@ -439,38 +431,95 @@ Use these tags to describe the quality of documents.
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
  
  ## United States of America<a name="UnitedStatesofAmerica"></a>
-[PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://drive.google.com/file/d/1tjP0Q_9ysfp4Fza3fI_eb5z__CbVuWcS/view?usp=sharing) 
 
+[National Science and Technology Council| THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN(2016)](https://www.nitrd.gov/pubs/national_ai_rd_strategic_plan.pdf)
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
+ 
+[PREPARING FOR THE FUTURE OF ARTIFICIAL INTELLIGENCE](https://drive.google.com/file/d/1tjP0Q_9ysfp4Fza3fI_eb5z__CbVuWcS/view?usp=sharing) 
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[SUMMARY OF THE 2018 DEPARTMENT OF DEFENSE ARTIFICIAL INTELLIGENCE STRATEGY(2018)](https://media.defense.gov/2019/Feb/12/2002088963/-1/-1/1/SUMMARY-OF-DOD-AI-STRATEGY.PDF)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+[U.S. LEADERSHIP IN AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools(2019)](https://www.nist.gov/system/files/documents/2019/08/10/ai_standards_fedengagement_plan_9aug2019.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+[THE NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN: 2019 UPDATE(2019)](https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf
+)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+[U.S. DEPARTMENT OF HOMELAND SECURITY ARTIFICIAL INTELLIGENCE STRATEGY(2020)](https://www.dhs.gov/sites/default/files/publications/dhs_ai_strategy.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[ Department of Defense Artificial Intelligence Education Strategy(2020)](https://www.ai.mil/docs/2020_DoD_AI_Training_and_Education_Strategy_and_Infographic_10_27_20.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+[U.S. Department of Justice Office of the Chief Information Officer|Artificial Intelligence Strategy for the U.S. Department of Justice(2020)](https://www.justice.gov/jmd/page/file/1364706/download)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+[Preparing for the Future of Transportation Automated Vehicles 3.0](https://www.transportation.gov/sites/dot.gov/files/docs/policy-initiatives/automated-vehicles/320711/preparing-future-transportation-automated-vehicle-30.pdf)
+
+[ensuring american leadership in automated vehicle technologies automated vehicles 4.0](https://www.transportation.gov/sites/dot.gov/files/docs/policy-initiatives/automated-vehicles/360956/ensuringamericanleadershipav4.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[Executive Office of the President| Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government(2020)](https://www.govinfo.gov/content/pkg/FR-2020-12-08/pdf/2020-27065.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[U.S. Department of Health and Human Services| Artificial Intelligence (AI) Strategy (2021)](https://www.hhs.gov/sites/default/files/final-hhs-ai-strategy.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[FDA| Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan(2021)](https://www.fda.gov/media/145022/download)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[S&T ARTIFICIAL INTELLIGENCE & MACHINE LEARNING STRATEGIC PLAN(2021)](https://www.dhs.gov/sites/default/files/publications/21_0730_st_ai_ml_strategic_plan_2021.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+[US Department of Veterans Affairs Artificial Intelligence (AI) Strategy(2021)](https://www.research.va.gov/naii/VA_AI%20Strategy_V2-508.pdf)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+
+
 -----
+- [UNCLASSIFIED 2 0 1 9 The United States Air Force Artificial Intelligence Annex to The Department of Defense Artificial Intelligence Strategy](https://www.af.mil/Portals/1/documents/5/USAF-AI-Annex-to-DoD-AI-Strategy.pdf)
+
+ - [UNCLASSIFIED THE AIM INITIATIVE A STRATEGY FOR AUGMENTING INTELLIGENCE USING MACHINES](https://www.dni.gov/files/ODNI/documents/AIM-Strategy.pdf)
+
+- [AMERICAN ARTIFICIALINTELLIGENCE INITIATIVE: YEAR ONE ANNUAL REPORT](https://www.nitrd.gov/nitrdgroups/images/c/c1/American-AI-Initiative-One-Year-Annual-Report.pdf)
+
+- [Defense Innovation Unit (DIU)](https://assets.ctfassets.net/3nanhbfkr0pc/acoo1Fj5uungnGNPJ3QWy/6ec382b3b5a20ec7de6defdb33b04dcd/2021_RAI_Report.pdf)
+
 - [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/index.html)
+
+- [National Security Commission on Artificial Intelligence’s (NSCAI)| Report presents the NSCAI’s strategy for winning the artificial intelligence era](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf)
+
+
   
 ## United Kingdom<a name="UnitedKingdom"></a>
 [National AI Strategy](https://drive.google.com/file/d/1UH6xs5vz8apkTJ1MNPWTazaD2_GUaujj/view?usp=sharing) 
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 
 [The roadmap to an effective AI assurance ecosystem](https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem/the-roadmap-to-an-effective-ai-assurance-ecosystem)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [ Guidelines for AI procurement ](https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [A guide to using artificial intelligence in the public sector ](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 [Planning and preparing for artificial intelligence implementation](https://www.gov.uk/guidance/planning-and-preparing-for-artificial-intelligence-implementation)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 
 [Managing your artificial intelligence project ](https://www.gov.uk/guidance/managing-your-artificial-intelligence-project)
-
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
 
@@ -577,6 +626,8 @@ Use these tags to describe the quality of documents.
 - [Independent report: Centre for Data Ethics and Innovation: Two year review ](https://www.gov.uk/government/publications/centre-for-data-ethics-and-innovation-two-year-review/centre-for-data-ethics-and-innovation-two-year-review)
 
 - [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
+
+[The U.S. Intelligence Community| Artificial Intelligence Ethics Framework for the Intelligence Community](https://www.dni.gov/files/ODNI/documents/AI_Ethics_Framework_for_the_Intelligence_Community_10.pdf)
 
 ## labour market<a name="labourmarket"></a>
 - [Understanding the UK AI labour market: 2020](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984671/DCMS_and_Ipsos_MORI_Understanding_the_AI_Labour_Market_2020_Full_Report.pdf)
@@ -715,3 +766,5 @@ Use these tags to describe the quality of documents.
 - [Executive’s guide to developing AI at scale](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/executives-guide-to-developing-ai-at-scale#intro)
 
 - [FLI Value Alignment Research Landscape](https://futureoflife.org/valuealignmentmap/)
+
+- [Artificial Intelligence R&D Investments-Fiscal Year 2018-2022](https://www.nitrd.gov/apps/itdashboard/AI-RD-Investments/)
