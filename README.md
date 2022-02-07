@@ -627,7 +627,7 @@ Use these tags to describe the quality of documents.
 
 - [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
 
-[The U.S. Intelligence Community| Artificial Intelligence Ethics Framework for the Intelligence Community](https://www.dni.gov/files/ODNI/documents/AI_Ethics_Framework_for_the_Intelligence_Community_10.pdf)
+- [The U.S. Intelligence Community| Artificial Intelligence Ethics Framework for the Intelligence Community](https://www.dni.gov/files/ODNI/documents/AI_Ethics_Framework_for_the_Intelligence_Community_10.pdf)
 
 ## labour market<a name="labourmarket"></a>
 - [Understanding the UK AI labour market: 2020](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984671/DCMS_and_Ipsos_MORI_Understanding_the_AI_Labour_Market_2020_Full_Report.pdf)
