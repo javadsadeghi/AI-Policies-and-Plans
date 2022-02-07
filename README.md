@@ -767,4 +767,4 @@ Use these tags to describe the quality of documents.
 
 - [FLI Value Alignment Research Landscape](https://futureoflife.org/valuealignmentmap/)
 
-- [Artificial Intelligence R&D Investments-Fiscal Year 2018-2022](https://www.nitrd.gov/apps/itdashboard/AI-RD-Investments/)
+- [USA Artificial Intelligence R&D Investments-Fiscal Year 2018-2022](https://www.nitrd.gov/apps/itdashboard/AI-RD-Investments/)
