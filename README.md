@@ -157,12 +157,24 @@ Use these tags to describe the quality of documents.
 [![Announcement](https://img.shields.io/badge/-Announcement-orange)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
-[China AI principels (2019)](https://drive.google.com/file/d/1eLTgVH8hj9sLRcVPW5BjQ9bVil0ZXul3/view?usp=sharing)
+- [Internet Information Service Algorithmic Recommendation Management Provisions (2021)](https://digichina.stanford.edu/work/translation-internet-information-service-algorithmic-recommendation-management-provisions-opinon-seeking-draft/)
+[![Draft](https://img.shields.io/badge/-Draft-ff69b4)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+- [Guiding Opinions on Strengthening the Comprehensive Governance of Internet Information Service Algorithms(2021)](http://www.cac.gov.cn/2021-09/29/c_1634507915623047.htm)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+[![Translate](https://img.shields.io/badge/-translate-blue)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+
+- [China AI principels (2019)](https://drive.google.com/file/d/1eLTgVH8hj9sLRcVPW5BjQ9bVil0ZXul3/view?usp=sharing)
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 [![Sub--Policy](https://img.shields.io/badge/-Sub--Policy-yellowgreen)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
-[Ethical Norms for the New Generation Artificial Intelligence](https://ai-ethics-and-governance.institute/2021/09/27/the-ethical-norms-for-the-new-generation-artificial-intelligence-china/)
+- [Ethical Norms for the New Generation Artificial Intelligence](https://ai-ethics-and-governance.institute/2021/09/27/the-ethical-norms-for-the-new-generation-artificial-intelligence-china/)
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
+- [White Paper on Trustworthy Artificial Intelligence(2021)](https://cset.georgetown.edu/publication/white-paper-on-trustworthy-artificial-intelligence/)
+[![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ----------
 - [Deciphering China’s AI Dream](https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf)
