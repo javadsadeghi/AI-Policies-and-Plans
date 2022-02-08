@@ -77,9 +77,10 @@ I think we need an “Awesome” of useful documents related to the AI policies 
     3. [Transparency](#Transparency)
     4. [Ethics](#Ethics)
     5. [Labour market](#labourmarket)
-5. [Other Resources](#OtherResources)
-6. [Inistitutes](#Inistitutes)
-7. [Dashboards](#Dashboards)
+5. [AI and Democracys](#AIandDemocracys)
+6. [Other Resources](#OtherResources)
+7. [Inistitutes](#Inistitutes)
+8. [Dashboards](#Dashboards)
 
 
 ### About Tags:<a name="Tags"></a>
@@ -650,6 +651,16 @@ Use these tags to describe the quality of documents.
 
 - [Artificial Intelligence and Employment(OECD)](https://www.oecd.org/future-of-work/reports-and-data/AI-Employment-brief-2021.pdf)
 
+## AI and Democracy<a name="AIandDemocracys"></a>
+
+- [CARR CENTER FOR HUMAN RIGHTS POLICY| Artificial Intelligence and the Past,Present, and Future of Democracy](https://carrcenter.hks.harvard.edu/files/cchr/files/ai-and-democracy)
+- [Christian Djeffal| AI, Democracy and the Law](https://mediarep.org/bitstream/handle/doc/14470/Democratization-of-Artificial-Intelligence_255-283_Djeffal_AI-Democracy-Law_.pdf?sequence=5)
+
+- [EU Monitor| AI, big data and the future of democracy](https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000497768/Digital_politics%3A_AI%2C_big_data_and_the_future_of_d.pdf?undefined&realload=7o80D2vnIMB1U0VegTNeFZ0LwZMo2uafm~J6yQ6FWBfnI5ENcOTT8X8iJ9ioXAy~)
+
+- [Carles Boix|AI AND THE ECONOMIC AND INFORMATIONAL FOUNDATIONS OF DEMOCRACY](http://www.princeton.edu/~cboix/AI%20and%20democracy%20--%20boix%20chapter%20--final.pdf)
+
+- [SHARP POWER AND DEMOCRATIC RESILIENCE SERIES| Artificial Intelligence and Democratic Norms](https://www.ned.org/wp-content/uploads/2020/07/Artificial-Intelligence-Democratic-Norms-Meeting-Authoritarian-Challenge-Wright.pdf)
 
 ## Other Resources<a name="OtherResources"></a>
 
