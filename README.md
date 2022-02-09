@@ -613,9 +613,9 @@ Use these tags to describe the quality of documents.
 
 - [White Paper on Artificial Intelligence: a European approach to excellence and trust](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
-- [INTELLIGENT ECONOMIES: AI’s transformation of industries and society](https://impact.economist.com/perspectives/sites/default/files/EIU_Microsoft%20-%20Intelligent%20Economies_AI%27s%20transformation%20of%20industries%20and%20society.pdf) A report from The Economist Intelligence Unit
+- [INTELLIGENT ECONOMIES: AI’s transformation of industries and society](https://impact.economist.com/perspectives/sites/default/files/EIU_Microsoft%20-%20Intelligent%20Economies_AI%27s%20transformation%20of%20industries%20and%20society.pdf) 
 
-- [Empowered Data Societies:A Human-Centric Approach to Data Relationships](https://www3.weforum.org/docs/WEF_Empowered_Data_Societies_2021.pdf) This document is published by the World Economic Forum 
+- [Empowered Data Societies:A Human-Centric Approach to Data Relationships](https://www3.weforum.org/docs/WEF_Empowered_Data_Societies_2021.pdf) 
 
 ## Transparency<a name="Transparency"></a>
 
