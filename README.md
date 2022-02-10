@@ -1,4 +1,4 @@
-# AI_Policy_Awesome
+# AI_Policy_Awesome[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of AI policies and documents
 
 I think we need an “Awesome” of useful documents related to the AI policies and other public efforts in this field such as roadmaps, regulations, official reports. But it is not possible without having a nice community that works on it. This “Awesome” will help us to:
@@ -582,7 +582,7 @@ Use these tags to describe the quality of documents.
  ## OECD<a name="OECD"></a>
 - [Scoping the OECD AI principles](https://read.oecd-ilibrary.org/science-and-technology/scoping-the-oecd-ai-principles_d62f618a-en#page1)
 
-- [Hello, World.Artificial intelligence and its use in the public secto](https://read.oecd-ilibrary.org/governance/hello-world_726fd39d-en)
+- [Hello, World.Artificial intelligence and its use in the public sector](https://read.oecd-ilibrary.org/governance/hello-world_726fd39d-en)
 
 - [OECD Recommendation of the Council on Artificial Intelligence](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
 
