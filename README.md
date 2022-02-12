@@ -1,5 +1,5 @@
 # AI Policies and Plans
-A curated list of documents related to country-level AI planning 
+A curated list of documents related to country-level AI planning.
 
 I think we, as individuals or organizations who are focused on AI in the public sector,  need a repository of useful documents related to the AI policies and other public efforts in this field such as strategies, roadmaps, regulations, official reports. But it is not possible without having a nice community that works on it. This repository tries to help with:
  1. Being updated! Currently and unlike the early stages and years, we are not speaking about some initiatives of limited countries in AI. Every day, some progress in AI policymaking is happening. By developing a live repository, we together and as a community will have a chance to follow the changes as soon as possible.
@@ -563,13 +563,27 @@ Use these tags to describe the quality of documents.
 
 # International Level<a name="InternationalLevel"></a>
  ## EU<a name="EU"></a>
-- [COMMUNICATION FROM THE COMMISSION: Artificial Intelligence for Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
+- [Artificial Intelligence for Europe(2018)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
 
-- [ Coordinated Plan with Member States: 2021 update](https://ec.europa.eu/newsroom/dae/redirection/document/75787)
+- [WHITE PAPER- On Artificial Intelligence - A European approach to excellence and trust(2020)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0065)
 
-- [Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
+- [Communication - Fostering a European approach](https://ec.europa.eu/newsroom/dae/redirection/document/75790)
+
+- [ Coordinated Plan on Artificial Intelligence 2021 Review](https://ec.europa.eu/newsroom/dae/redirection/document/75787)
+
+- [REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL- LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS(2021)](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206)
+
+- [IMPACT ASSESSMENT Accompanying the Proposal for a Regulation of the European Parliament and of the Council LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52021SC0084&from=EN)
 
 - [A (more) visual guide to the proposed EU Artificial Intelligence Act](https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3)
+
+- [Joint Vision Paper for an Artificial Intelligence Public Private Partnership (AI PPP) BDVA - euRobotics](https://www.eu-robotics.net/cms/upload/downloads/VISION_AI-PPP_euRobotics-BDVA-Final.pdf)
+
+- [Strategic Research, Innovation and Deployment Agenda for an AI PPP(2019)](https://www.eu-robotics.net/cms/upload/downloads/ppp-documents/AI_PPP_SRIDA-Second-Consultation_Version-June_2019_-_Online_V2.1.pdf)
+
+-[Strategic Research, Innovation and Deployment Agenda(2020)](https://www.bdva.eu/sites/default/files/AI-Data-Robotics-Partnership-SRIDA%20V3.1.pdf)
+
+- [AI IN HEALTHCARE- Whitepaper(2020)](https://www.bdva.eu/sites/default/files/AI%20in%20Healthcare%20Whitepaper_November%202020_0.pdf)
 
 - [EU AI Researches Repository ](https://cordis.europa.eu/search?q=%27artificial%20intelligence%27%20AND%20(contenttype%3D%27project%27%20OR%20%2Farticle%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27brief%27%20OR%20%2Fresult%2Frelations%2Fcategories%2Fcollection%2Fcode%3D%27pubsum%27%2C%27deliverable%27%2C%27publication%27)&p=1&num=10&srt=Relevance:decreasing)
 
@@ -577,7 +591,7 @@ Use these tags to describe the quality of documents.
 
 - [EU FUNDED PROJECTS THAT USE AI TECHNOLOGY](https://ec.europa.eu/newsroom/dae/redirection/document/75754)
 
--[Harmonising Artificial Intelligence: The role of standards in the EU AI Regulation](https://oxil.uk/publications/2021-12-02-oxford-internet-institute-oxil-harmonising-ai/Harmonising-AI-OXIL.pdf)
+- [Harmonising Artificial Intelligence: The role of standards in the EU AI Regulation](https://oxil.uk/publications/2021-12-02-oxford-internet-institute-oxil-harmonising-ai/Harmonising-AI-OXIL.pdf)
 
  ## OECD<a name="OECD"></a>
 - [Scoping the OECD AI principles](https://read.oecd-ilibrary.org/science-and-technology/scoping-the-oecd-ai-principles_d62f618a-en#page1)
@@ -718,6 +732,8 @@ Use these tags to describe the quality of documents.
 
 - [CIFAR ](https://cifar.ca/)
 
+- [CLAIRE ](https://claire-ai.org/)
+
 - [Climate Change AI](https://www.climatechange.ai/)
 
 - [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
@@ -725,6 +741,10 @@ Use these tags to describe the quality of documents.
 - [Ethical AI Governance Platform ](https://anch.ai/)
 
 - [European AI Alliance](https://futurium.ec.europa.eu/en/european-ai-alliance)
+
+- [European Association for Artificial Intelligence EurAI (formerly ECCAI)](https://eurai.org/)
+
+- [European Laboratory for Learning and Intelligent Systems ](https://ellis.eu/)
 
 - [FARI, AI Institute for the Common Good ](https://fari.brussels/)
 
