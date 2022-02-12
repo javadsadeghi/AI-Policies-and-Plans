@@ -81,6 +81,7 @@ I think we, as individuals or organizations who are focused on AI in the public 
 6. [Other Resources](#OtherResources)
 7. [Inistitutes](#Inistitutes)
 8. [Dashboards](#Dashboards)
+9. [Multimedia](#Multimedia)
 
 
 ### About Tags:<a name="Tags"></a>
@@ -811,3 +812,16 @@ Use these tags to describe the quality of documents.
 - [FLI Value Alignment Research Landscape](https://futureoflife.org/valuealignmentmap/)
 
 - [USA Artificial Intelligence R&D Investments-Fiscal Year 2018-2022](https://www.nitrd.gov/apps/itdashboard/AI-RD-Investments/)
+
+# Multimedia<a name="Multimedia"></a>
+- [Consequential- Podcast](https://www.cmu.edu/block-center/podcast-consequential/)
+
+- [TechPlomacy Talk- Podcast](https://soundcloud.com/user-464677530)
+
+- [Artificial Intelligence and the Rule of Law- Course](https://golearn.judges.org/learn/course/external/view/elearning/569/unesco-tfs-english-artificial-intelligence-and-the-rule-of-law)
+
+- [AI Ethics: Global perspectives- Course](https://aiethicscourse.org/)
+
+- [Artificial Intelligence: Ethics & Societal Challenges- Course](https://www.coursera.org/lecture/ai-ethics/ai-democracy-why-democracy-Jc0PI)
+
+- [ AI Career -Podcast ](https://www.linkedin.com/pulse/ai-career-podcast-steve-nouri/)
