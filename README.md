@@ -1,5 +1,5 @@
 # AI Policies and Plans
-A curated list of documents related to country-level AI planning.
+A curated list of documents about AI policy-making and planning.
 
 I think we, as individuals or organizations who are focused on AI in the public sector,  need a repository of useful documents related to the AI policies and other public efforts in this field such as strategies, roadmaps, regulations, official reports. But it is not possible without having a nice community that works on it. This repository tries to help with:
  1. Being updated! Currently and unlike the early stages and years, we are not speaking about some initiatives of limited countries in AI. Every day, some progress in AI policymaking is happening. By developing a live repository, we together and as a community will have a chance to follow the changes as soon as possible.
