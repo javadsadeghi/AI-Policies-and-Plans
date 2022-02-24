@@ -251,6 +251,9 @@ Use these tags to describe the quality of documents.
 
 [![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
+-----
+[Office of Government Procurement Robotic Process Automation Framework Impact Report](https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/PublicSector/rpa/IE_RPA_framework_0421_001.pdf)
+
 ## India<a name="India"></a>
  [RESPONSIBLE AI #AIFORALL (2021)](https://drive.google.com/file/d/1OCPY1fT49v4oPknuIYT-f1kcjGAMVRG4/view?usp=sharing) 
 
@@ -634,15 +637,17 @@ Use these tags to describe the quality of documents.
 
 ## Transparency<a name="Transparency"></a>
 
+- [Algorithmic transparency data standard](https://www.gov.uk/government/publications/algorithmic-transparency-data-standard)
+
+- [Applying Transparency in Artificial Intelligence based Personalization Systems](https://arxiv.org/pdf/2004.00935.pdf)
+
 - [Independent report Britain Thinks: Complete transparency, complete simplicity ](https://www.gov.uk/government/publications/cdei-publishes-commissioned-research-on-algorithmic-transparency-in-the-public-sector)
 
-- [Algorithmic transparency data standard](https://www.gov.uk/government/publications/algorithmic-transparency-data-standard)
- 
+- [Making Transparency Meaningful: A Framework for Policymakers](https://cdt.org/wp-content/uploads/2021/12/12132021-CDT-Making-Transparency-Meaningful-A-Framework-for-Policymakers-final.pdf)
+
 - [Transparency and Responsibility in Artificial Intelligence. A call for explainable A](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/innovatie/deloitte-nl-innovation-bringing-transparency-and-ethics-into-ai.pdf)
 
 - [Transparency in artificial intelligence](https://policyreview.info/pdf/policyreview-2020-2-1469.pdf)
-
-- [Applying Transparency in Artificial Intelligence based Personalization Systems](https://arxiv.org/pdf/2004.00935.pdf)
 
 ## Ethics<a name="Ethics"></a>
 - [Executive Summary: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_executive_summary_v2.pdf)
