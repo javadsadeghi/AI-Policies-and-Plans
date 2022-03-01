@@ -77,11 +77,11 @@ I think we, as individuals or organizations who are focused on AI in the public 
     3. [Transparency](#Transparency)
     4. [Ethics](#Ethics)
     5. [Labour market](#labourmarket)
-5. [AI and Democracys](#AIandDemocracys)
-6. [Other Resources](#OtherResources)
-7. [Inistitutes](#Inistitutes)
-8. [Dashboards](#Dashboards)
-9. [Multimedia](#Multimedia)
+    6. [AI and Democracys](#AIandDemocracys)
+    7. [Other Resources](#OtherResources)
+5. [Inistitutes](#Inistitutes)
+6. [Dashboards](#Dashboards)
+7. [Multimedia](#Multimedia)
 
 
 ### About Tags:<a name="Tags"></a>
