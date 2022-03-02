@@ -177,6 +177,9 @@ Use these tags to describe the quality of documents.
 - [White Paper on Trustworthy Artificial Intelligence(2021)](https://cset.georgetown.edu/publication/white-paper-on-trustworthy-artificial-intelligence/)
 [![Report](https://img.shields.io/badge/-Report-yellow)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
 
+- [Guidelines for the Construction of a National Smart Manufacturing Standards System (2021)](https://cset.georgetown.edu/wp-content/uploads/t0429_smart_manufacturing_EN.pdf?utm_source=Center+for+Security+and+Emerging+Technology&utm_campaign=9b91d2402f-EMAIL_CAMPAIGN_2022_02_24_01_50&utm_medium=email&utm_term=0_fcbacf8c3e-9b91d2402f-438325077)
+[![Official](https://img.shields.io/badge/-Official-green)](https://github.com/javadsadeghi/Awesome-AI-Policy/)
+
 
 ----------
 - [Deciphering China’s AI Dream](https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf)
@@ -755,6 +758,8 @@ Use these tags to describe the quality of documents.
 - [European Laboratory for Learning and Intelligent Systems ](https://ellis.eu/)
 
 - [FARI, AI Institute for the Common Good ](https://fari.brussels/)
+
+- [FATE: Fairness, Accountability, Transparency, and Ethics in AI](https://www.microsoft.com/en-us/research/theme/fate/)
 
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
 
