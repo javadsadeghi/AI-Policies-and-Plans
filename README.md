@@ -3,7 +3,7 @@ A curated list of documents about AI policy-making and planning.
 
 
 
-I am pleased to inform you proudly that this project will contribute to **FARMAANAA**(https://farmaanaa.ir/),  a research DAO dedicated to evidence-based management in Iran.
+I am pleased to inform you proudly that this project will contribute to [**FARMAANAA**](https://farmaanaa.ir/),  a research DAO dedicated to evidence-based management in Iran.
 
 
 
